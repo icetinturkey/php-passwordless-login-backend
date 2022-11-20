@@ -17,3 +17,9 @@
 ##### 3) Change your email server settings in `Extras/EMAIL.php`.
 ##### 4) Upload everything to your hosting.
 ##### 4) Ready.
+#
+### Endpoint;
+##### 1) newAuth (Create new login key)
+Example: `https://yourdomain.com/Backend.php?newAuth&e=loginme@gmail.com`
+##### 2) userLogin (Create new session)
+Example: `https://yourdomain.com/Backend.php?userLogin&p=f57d0eeaab00888cc090e3589ac30780`
