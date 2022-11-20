@@ -28,4 +28,4 @@ Example: `https://yourdomain.com/Backend.php?userLogout&t=eyJhbciO.eyJzdWOiIxMD.
 ##### 4) getMyData (Get user's data)
 Example: `https://yourdomain.com/Backend.php?getMyData&t=eyJhbciO.eyJzdWOiIxMD.SflKxw6yJV_adc`
 #
-:warning:For more safety, it is recommended to translate the $_GET methods to $_POST.
+:warning:For more safety, it is recommended to convert the $_GET methods to $_POST.
