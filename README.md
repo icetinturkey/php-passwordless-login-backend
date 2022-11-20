@@ -24,7 +24,7 @@ Example: `https://yourdomain.com/Backend.php?newAuth&e=loginme@gmail.com`
 ##### 2) userLogin (Create new session)
 Example: `https://yourdomain.com/Backend.php?userLogin&p=f57d0eeaab00888cc090e3589ac30780`
 ##### 3) userLogout (Remove session)
-Example: `https://yourdomain.com/Backend.php?userLogout&t=eyJhbGciOiJIUzI.eyJzdWIiOiIxMD5MDIyfQ.SflKxwRJOk6yJV_adQssw5c`
+Example: `https://yourdomain.com/Backend.php?userLogout&t=eyJhbciO.eyJzdWOiIxMD.SflKxw6yJV_adc`
 ##### 4) getMyData (Get user's data)
-Example: `https://yourdomain.com/Backend.php?getMyData&t=eyJhbGciOiJIUzI.eyJzdWIiOiIxMD5MDIyfQ.SflKxwRJOk6yJV_adQssw5c`
-:warning:For more safety, it is recommended to translate the $_GET methods to $_POST.
+Example: `https://yourdomain.com/Backend.php?getMyData&t=eyJhbciO.eyJzdWOiIxMD.SflKxw6yJV_adc`
+#####:warning:For more safety, it is recommended to translate the $_GET methods to $_POST.
